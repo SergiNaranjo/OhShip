@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Sergi/Desktop/OhShip/OhShip/Content/CharcoMinijuego.uasset",
+				"C:/Users/Sergi/Desktop/OhShip/OhShip/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Sergi/Desktop/OhShip/OhShip/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Sergi/Desktop/OhShip/OhShip/Content/Charco.uasset",
+				"C:/Users/Sergi/Desktop/OhShip/OhShip/Content/Barra.uasset",
 				"C:/Users/naran/Desktop/OhShip/OhShip/Content/ThirdPerson/Maps/Interaction.umap",
 				"C:/Users/naran/Desktop/OhShip/OhShip/Content/__ExternalActors__/ThirdPerson/Maps/Interaction/6/CC/722MX9GPMMFSGPAF0V07E2.uasset",
 				"C:/Users/naran/Desktop/OhShip/OhShip/Content/__ExternalActors__/ThirdPerson/Maps/Interaction/3/O8/UQGDZV10C1Q60MQMF4TU6L.uasset",
